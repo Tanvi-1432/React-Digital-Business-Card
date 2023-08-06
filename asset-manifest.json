@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Digital-Business-Card/static/css/main.6b0b97dc.css",
+    "main.js": "/React-Digital-Business-Card/static/js/main.711896f7.js",
+    "static/media/Rectangle 90.png": "/React-Digital-Business-Card/static/media/Rectangle 90.c1d035f847e45c276a5d.png",
+    "index.html": "/React-Digital-Business-Card/index.html",
+    "main.6b0b97dc.css.map": "/React-Digital-Business-Card/static/css/main.6b0b97dc.css.map",
+    "main.711896f7.js.map": "/React-Digital-Business-Card/static/js/main.711896f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0b97dc.css",
+    "static/js/main.711896f7.js"
+  ]
+}
